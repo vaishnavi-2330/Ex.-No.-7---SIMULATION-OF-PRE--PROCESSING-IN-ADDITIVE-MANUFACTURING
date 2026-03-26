@@ -39,10 +39,11 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## Output:
-![alt text](e61.png)
-![alt text](e62.png)
-![alt text](e63.png)
-![alt text](<Screenshot (179).png>)
+
+<img width="1491" height="811" alt="e61" src="https://github.com/user-attachments/assets/804a22df-5e4d-4842-9a6e-dc3ce00fd1ee" />
+<img width="1414" height="811" alt="e62" src="https://github.com/user-attachments/assets/029eab56-7aa8-41e0-8057-a0519ee14e54" />
+<img width="1389" height="736" alt="e63" src="https://github.com/user-attachments/assets/4659daf8-8f62-47ad-855f-43ecf5ea3205" />
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/86d27644-e4fc-4ea6-9f31-f25224137189" />
 
 ### Name: Vaishnavi T
 ### Register Number: 212225100057
